@@ -1,0 +1,44 @@
+* TIP47/48/49/50 NPN SILICON TRANSISTOR ELECTRICAL PARAMETERS
+*---------------------------------------------------------------
+* Vcbo & Vceo: 
+*  -. TIP47 : 350V & 250V / TIP48 : 400V & 300V 
+*  -. TIP49 : 450V & 350V / TIP50 : 500V & 400V 
+* High Voltagea and Switching Applications
+* 1A Rated Collector Current
+*---------------------------------------------------------------
+* MODEL PARAMETERS FROM MEASURED DATA: TIP49
+*---------------------------------------------------------------
+.MODEL  TIP47_48_49_50 NPN 
++ LEVEL = 1
++ IS    = 4.67735E-14
++ NF    = 0.961
++ ISE   = 1.58489E-13
++ NE    = 1.27045
++ BF    = 49.3
++ IKF   = 0.6587
++ VAF   = 13.16
++ NR    = 0.997
++ ISC   = 9.1201E-14
++ NC    = 0.995
++ BR    = 8.00036
++ IKR   = 0.5764768
++ VAR   = 7.93
++ RB    = 166.17
++ IRB   = 2.51189E-6
++ RBM   = 0.404
++ RE    = 0.005
++ RC    = 0.15085
++ XTB   = 1.0575
++ EG    = 1.1907
++ XTI   = 3
++ CJE   = 7.44E-10
++ VJE   = 0.727
++ MJE   = 0.346
++ CJC   = 8.01E-11
++ VJC   = 0.405
++ MJC   = 0.407
++ XCJC  = 0.4871
++ FC    = 0.5
+* --------------------------------------------------------------
+* FAIRCHILD    CASE: TO-220   PID: TIP47/48/49/50
+* SEP-20-2001 CREATION
