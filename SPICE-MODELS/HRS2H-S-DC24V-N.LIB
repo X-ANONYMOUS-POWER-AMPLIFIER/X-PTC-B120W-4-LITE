@@ -1,9 +1,0 @@
-.SUBCKT HRS2H-S-DC24V-N 1 2 3 4 7 8 9 10
-R1 1 10 2880
-S1 3 4 1 10 SW1
-S2 8 7 1 10 SW1
-S3 3 2 1 10 SW2
-S4 8 9 1 10 SW2
-.model sw1 VSWITCH voff=0 von=24 ron=0.01 roff=10MEG
-.model sw2 VSWITCH voff=24 von=0 ron=0.01 roff=10MEG
-.ENDS
