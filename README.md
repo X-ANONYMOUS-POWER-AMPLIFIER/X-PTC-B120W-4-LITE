@@ -2,7 +2,7 @@
 
 X-PTC-B120W-4-LITE is a protection circuit module for [X-B120W-4-LITE CLASS-B POWER AMPLIFIER MAIN-CIRCUIT](https://github.com/X-ANONYMOUS-POWER-AMPLIFIER/X-B120W-4-LITE/). It provides both open-circuit and short-circuit protection for protecting both side of the power amplifier main-circuit and the loudspeaker. This circuit is designed to be fit on a small size single-sided PCB and for easy to install.
 
-This X-PTC-B120W-4-LITE is designed to work in 12V DC non-symmetrical operating voltage. None of additional operating voltage is needed. The PSU module (https://github.com/X-ANONYMOUS-POWER-AMPLIFIER/X-10A42V-DDSB-PSU) is applicable to provide operating voltages to power-up both [X-B120W-4-LITE CLASS-B POWER AMPLIFIER MAIN-CIRCUIT](https://github.com/X-ANONYMOUS-POWER-AMPLIFIER/X-B120W-4-LITE/) module and this X-PTC-B120W-4-LITE protection module. 
+This X-PTC-B120W-4-LITE is designed to work in 12V DC non-symmetrical operating voltage. None of additional operating voltage is needed. The [X-10A42V-DDSB-PSU PSU module](https://github.com/X-ANONYMOUS-POWER-AMPLIFIER/X-10A42V-DDSB-PSU) is applicable to provide operating voltages to power-up both [X-B120W-4-LITE CLASS-B POWER AMPLIFIER MAIN-CIRCUIT](https://github.com/X-ANONYMOUS-POWER-AMPLIFIER/X-B120W-4-LITE/) module and this X-PTC-B120W-4-LITE protection module. 
 
 
 ![X-PTC-B120W-4-LITE schematic diagram](https://github.com/X-ANONYMOUS-POWER-AMPLIFIER/X-PTC-B120W-4-LITE/blob/main/X-PTC-B120W-4-LITE-PROTECTOR-CIRCUIT-FOR-X-B120W-4-LITE-2.png)
